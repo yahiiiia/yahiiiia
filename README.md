@@ -6,7 +6,7 @@
 I like new challenges and enjoy solving problems!  
 💻 Passionate about <strong>Cloud Computing, Networking, and IT Support</strong>  
 🔹 Focused on <strong>AWS Infrastructure, Security, and System Administration</strong>  
-🔹 Junior-level knowledge in <strong>Cisco Networking & Network Security</strong>  
+🔹 Junior-level in <strong>Cisco Networking & Network Security</strong>  
 </p>
 
 ---
@@ -52,6 +52,9 @@ I like new challenges and enjoy solving problems!
   </a>
   <a href="https://github.com/yahiiiia" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:yahia@abderrafia.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
