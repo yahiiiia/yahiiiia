@@ -1,174 +1,72 @@
-<img src="https://img.shields.io/badge/-Juniper-84B135?style=for-the-badge&logo=juniper-networks&logoColor=white&shadow=0px+4px+8px+rgba(132,177,53,0.3)" />
-  <img src="https://img.shields.io/badge/-TCP%2FIP-000000?style=for-the-badge&logo=internet-archive&logoColor=white&shadow=0px+4px+8px+rgba(0,0,0,0.3)" />
-  <img src="https://img.shields.io/badge/-DNS-0078D6?style=for-the-badge&logo=cloudflare&logoColor=white&shadow=0px+4px+8px+rgba(0,120,214,0.3)" />
-  <img src="https://img.shields.io/badge/-OSPF-FF6F00?style=for-the-badge&logo=router&logoColor=white&shadow=0px+4px+8px+rgba(255,111,0,0.3)" />
-  <img src="https://img.shields.io/badge/-BGP-4285F4?style=for-the-badge&logo=internet-explorer&logoColor=white&shadow=0px+4px+8px+rgba(66,133,244,0.3)" />### **🌐 Network Infrastructure**
-<p align="center">
-  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&shadow=0px+4px+8px+rgba(27,160,215,0.3)" />
-  <img src="https://img.shields.io/badge/-TCP%2FIP-000000?style=for-the-badge&logo=internet-archive&logoColor=white&shadow=0px+4px+8px+rgba(0,0,0,0.3)" />
-  <img src="https://img.shields.io/badge/-DNS-0078D6?style=for-the-badge&logo=cloudflare&logoColor=white&shadow=0px+4px+8px+rgba(0,120,214,0.3)" />
-  <img src="https://img.shields.io/badge/-OSPF-FF6F00?style=for-the-badge&logo=router&logoColor=white&shadow=0px+4px+8px+rgba(255,111,0,0.3)" />
-  <img src="https://img.shields.io/badge/-GRE-4285F4?style=for-the-badge&logo=cisco&logoColor=white&shadow=0px+4px+8px+rgba(66,133,244,0.3)" />
-  <img src="https://img.shields.io/badge/-IPSec-FF6B35?style=for-the-badge&logo=shield-alt&logoColor=white&shadow=0px+4px+8px+rgba(255,107,53,0.3)" />
-  <img src="https://img.shields.io/badge/-AES%20Encryption-2E8B57?style=for-the-badge&logo=lock&logoColor=white&shadow=0px+4px+8px+rgba(46,139,87,0.3)" />
-</p>### **🔧 System Administration**
-<p align="center">
-  <img src="https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white&shadow=0px+4px+8px+rgba(0,120,214,0.3)" />
-  <img src="https://img.shields.io/badge/-Active%20Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white&shadow=0px+4px+8px+rgba(0,120,214,0.3)" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&shadow=0px+4px+8px+rgba(252,198,36,0.3)" />
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&shadow=0px+4px+8px+rgba(233,84,32,0.3)" />
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&shadow=0px+4px+8px+rgba(83,145,254,0.3)" />
-</p><div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there!+👋+Welcome+to+my+GitHub;Passionate+about+Cloud+%26+Technology+☁️;Always+learning+%26+exploring+new+tech+🚀" alt="Typing SVG" />
-</div>
+# Hi there 👋, I'm Abderrafia Yahia
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+### 🌟 Tech Enthusiast & Problem Solver
 
-<h2 align="center">🌟 Tech Enthusiast & Problem Solver 🌟</h2>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-<p align="center" style="font-size: 20px; color: #A855F7;">
-  <strong>✨ Passionate about solving complex challenges and building innovative solutions! ✨</strong>
-</p>
-
-<p align="center" style="font-size: 18px;">
-💻 Exploring <strong>Cloud Computing, Infrastructure, and System Architecture</strong><br>
-🔐 Learning <strong>AWS Services, Security Frameworks, and Network Solutions</strong><br>
-🌐 Developing skills in <strong>Cisco Networking & Network Security</strong><br>
-🚀 Passionate about <strong>Technology, Problem-Solving, and Continuous Learning</strong>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
+💻 Exploring **Cloud Computing, Infrastructure, and System Architecture**  
+🔐 Learning **AWS Services, Security Frameworks, and Network Solutions**  
+🌐 Developing skills in **Cisco Networking & Network Security**  
+🚀 Passionate about **Technology, Problem-Solving, and Continuous Learning**
 
 ---
 
-## 🎯 **Core Technology Stack**
+## 🛠️ **Technologies & Tools**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
+**Cloud & Infrastructure:**  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![HyperV](https://img.shields.io/badge/-HyperV-0089D6?style=flat-square&logo=windows&logoColor=white)
 
-### **☁️ Cloud & Infrastructure Excellence**
-<p align="center">
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&shadow=0px+4px+8px+rgba(255,153,0,0.3)" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&shadow=0px+4px+8px+rgba(0,137,214,0.3)" />
-  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&shadow=0px+4px+8px+rgba(66,133,244,0.3)" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&shadow=0px+4px+8px+rgba(36,150,237,0.3)" />
+**System Administration:**  
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-</p>
+**Networking:**  
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000000?style=flat-square&logo=internet-archive&logoColor=white)
+![DNS](https://img.shields.io/badge/-DNS-0078D6?style=flat-square&logo=cloudflare&logoColor=white)
+![OSPF](https://img.shields.io/badge/-OSPF-FF6F00?style=flat-square&logo=router&logoColor=white)
+![GRE](https://img.shields.io/badge/-GRE-4285F4?style=flat-square&logo=cisco&logoColor=white)
+![IPSec](https://img.shields.io/badge/-IPSec-FF6B35?style=flat-square&logo=shield-alt&logoColor=white)
 
-### **🔧 System Administration & DevOps**
-<p align="center">
-  <img src="https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white&shadow=0px+4px+8px+rgba(0,120,214,0.3)" />
-  <img src="https://img.shields.io/badge/-Active%20Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white&shadow=0px+4px+8px+rgba(0,120,214,0.3)" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&shadow=0px+4px+8px+rgba(252,198,36,0.3)" />
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&shadow=0px+4px+8px+rgba(233,84,32,0.3)" />
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&shadow=0px+4px+8px+rgba(83,145,254,0.3)" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&shadow=0px+4px+8px+rgba(78,170,37,0.3)" />
-</p>
-
-### **🔒 Security & Monitoring**
-<p align="center">
-  <img src="https://img.shields.io/badge/-Cybersecurity-FF6F00?style=for-the-badge&logo=hack-the-box&logoColor=white&shadow=0px+4px+8px+rgba(255,111,0,0.3)" />
-  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&shadow=0px+4px+8px+rgba(0,0,0,0.3)" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&shadow=0px+4px+8px+rgba(22,121,167,0.3)" />
-  <img src="https://img.shields.io/badge/-Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white&shadow=0px+4px+8px+rgba(0,193,118,0.3)" />
-  <img src="https://img.shields.io/badge/-Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white&shadow=0px+4px+8px+rgba(0,0,0,0.3)" />
-</p>
-
-### **🌐 Network Infrastructure**
-<p align="center">
-  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&shadow=0px+4px+8px+rgba(27,160,215,0.3)" />
-  <img src="https://img.shields.io/badge/-Juniper-84B135?style=for-the-badge&logo=juniper-networks&logoColor=white&shadow=0px+4px+8px+rgba(132,177,53,0.3)" />
-  <img src="https://img.shields.io/badge/-TCP%2FIP-000000?style=for-the-badge&logo=internet-archive&logoColor=white&shadow=0px+4px+8px+rgba(0,0,0,0.3)" />
-  <img src="https://img.shields.io/badge/-DNS-0078D6?style=for-the-badge&logo=cloudflare&logoColor=white&shadow=0px+4px+8px+rgba(0,120,214,0.3)" />
-  <img src="https://img.shields.io/badge/-OSPF-FF6F00?style=for-the-badge&logo=router&logoColor=white&shadow=0px+4px+8px+rgba(255,111,0,0.3)" />
-  <img src="https://img.shields.io/badge/-BGP-4285F4?style=for-the-badge&logo=internet-explorer&logoColor=white&shadow=0px+4px+8px+rgba(66,133,244,0.3)" />
-</p>
-
-### **📊 Databases & Analytics**
-<p align="center">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&shadow=0px+4px+8px+rgba(68,121,161,0.3)" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&shadow=0px+4px+8px+rgba(51,103,145,0.3)" />
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&shadow=0px+4px+8px+rgba(204,41,39,0.3)" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&shadow=0px+4px+8px+rgba(71,162,72,0.3)" />
-</p>
-
-### **💻 Programming & Automation**
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&shadow=0px+4px+8px+rgba(55,118,171,0.3)" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&shadow=0px+4px+8px+rgba(247,223,30,0.3)" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&shadow=0px+4px+8px+rgba(97,218,251,0.3)" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&shadow=0px+4px+8px+rgba(35,145,32,0.3)" />
-  <img src="https://img.shields.io/badge/-YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white&shadow=0px+4px+8px+rgba(203,23,30,0.3)" />
-  <img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white&shadow=0px+4px+8px+rgba(0,0,0,0.3)" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
-</div>
+**Programming & Databases:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-## 📊 **GitHub Analytics & Activity**
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahiiiia&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=ffffff&bg_color=0D1117&cache_seconds=1800" alt="GitHub Stats" />
-</p>
+## 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahiiiia&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0D1117&cache_seconds=1800&langs_count=4&hide=html,css&custom_title=Most%20Used%20Languages" alt="Top Languages" />
-</p>
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yahiiiia&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=ffffff&bg_color=0D1117&hide=issues&custom_title=GitHub%20Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahiiiia&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0D1117&langs_count=6&hide=html,css" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yahiiiia&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 
 ---
 
-## 🏆 **Achievements & Recognition**
+**Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrafia-yahia/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yahiiiia)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yahia@abderrafia.com)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yahiiiia&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🌐 **Connect & Collaborate**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="100">
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abderrafia-yahia/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shadow=0px+4px+8px+rgba(0,119,181,0.3)" />
-  </a>
-  <a href="https://github.com/yahiiiia" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&shadow=0px+4px+8px+rgba(24,23,23,0.3)" />
-  </a>
-  <a href="mailto:yahia@abderrafia.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&shadow=0px+4px+8px+rgba(209,72,54,0.3)" />
-  </a>
-</p>
-
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Innovation+through+Technology+%F0%9F%9A%80;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%92%BB;Let's+Create+Something+Amazing+Together!+%E2%9C%A8" alt="Footer Typing" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 </div>
