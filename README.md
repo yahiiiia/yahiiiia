@@ -1,10 +1,10 @@
-# Hi there 👋, I'm Abderrafia Yahia
+# Hi there 👋, I'm Abde- Yahia
 
 ### 🌟 Tech Enthusiast & Problem Solver
 
-💻 Exploring **Cloud Computing, Infrastructure, and System Architecture**  
-🔐 Learning **AWS Services, Security Frameworks, and Network Solutions**  
-🌐 Developing skills in **Cisco Networking & Network Security**  
+💻  **Cloud Computing, Infrastructure, and System Architecture**  
+🔐  **AWS Services, Security Frameworks, and Network Solutions**  
+🌐  **Cisco Networking & Network Security**  
 🚀 Passionate about **Technology, Problem-Solving, and Continuous Learning**
 
 ---
