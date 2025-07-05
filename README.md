@@ -1,4 +1,24 @@
-<div align="center">
+<img src="https://img.shields.io/badge/-Juniper-84B135?style=for-the-badge&logo=juniper-networks&logoColor=white&shadow=0px+4px+8px+rgba(132,177,53,0.3)" />
+  <img src="https://img.shields.io/badge/-TCP%2FIP-000000?style=for-the-badge&logo=internet-archive&logoColor=white&shadow=0px+4px+8px+rgba(0,0,0,0.3)" />
+  <img src="https://img.shields.io/badge/-DNS-0078D6?style=for-the-badge&logo=cloudflare&logoColor=white&shadow=0px+4px+8px+rgba(0,120,214,0.3)" />
+  <img src="https://img.shields.io/badge/-OSPF-FF6F00?style=for-the-badge&logo=router&logoColor=white&shadow=0px+4px+8px+rgba(255,111,0,0.3)" />
+  <img src="https://img.shields.io/badge/-BGP-4285F4?style=for-the-badge&logo=internet-explorer&logoColor=white&shadow=0px+4px+8px+rgba(66,133,244,0.3)" />### **🌐 Network Infrastructure**
+<p align="center">
+  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&shadow=0px+4px+8px+rgba(27,160,215,0.3)" />
+  <img src="https://img.shields.io/badge/-TCP%2FIP-000000?style=for-the-badge&logo=internet-archive&logoColor=white&shadow=0px+4px+8px+rgba(0,0,0,0.3)" />
+  <img src="https://img.shields.io/badge/-DNS-0078D6?style=for-the-badge&logo=cloudflare&logoColor=white&shadow=0px+4px+8px+rgba(0,120,214,0.3)" />
+  <img src="https://img.shields.io/badge/-OSPF-FF6F00?style=for-the-badge&logo=router&logoColor=white&shadow=0px+4px+8px+rgba(255,111,0,0.3)" />
+  <img src="https://img.shields.io/badge/-GRE-4285F4?style=for-the-badge&logo=cisco&logoColor=white&shadow=0px+4px+8px+rgba(66,133,244,0.3)" />
+  <img src="https://img.shields.io/badge/-IPSec-FF6B35?style=for-the-badge&logo=shield-alt&logoColor=white&shadow=0px+4px+8px+rgba(255,107,53,0.3)" />
+  <img src="https://img.shields.io/badge/-AES%20Encryption-2E8B57?style=for-the-badge&logo=lock&logoColor=white&shadow=0px+4px+8px+rgba(46,139,87,0.3)" />
+</p>### **🔧 System Administration**
+<p align="center">
+  <img src="https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white&shadow=0px+4px+8px+rgba(0,120,214,0.3)" />
+  <img src="https://img.shields.io/badge/-Active%20Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white&shadow=0px+4px+8px+rgba(0,120,214,0.3)" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&shadow=0px+4px+8px+rgba(252,198,36,0.3)" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&shadow=0px+4px+8px+rgba(233,84,32,0.3)" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&shadow=0px+4px+8px+rgba(83,145,254,0.3)" />
+</p><div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there!+👋+Welcome+to+my+GitHub;Passionate+about+Cloud+%26+Technology+☁️;Always+learning+%26+exploring+new+tech+🚀" alt="Typing SVG" />
 </div>
 
@@ -17,10 +37,10 @@
 </p>
 
 <p align="center" style="font-size: 18px;">
-💻 Deep expertise in <strong>Cloud Computing, Infrastructure, and System Architecture</strong><br>
-🔐 Specialized in <strong>AWS Services, Security Frameworks, and Network Solutions</strong><br>
-🌐 Advanced knowledge in <strong>Cisco Networking & Enterprise Security</strong><br>
-🚀 Continuous learner exploring <strong>DevOps, Automation, and Emerging Technologies</strong>
+💻 Exploring <strong>Cloud Computing, Infrastructure, and System Architecture</strong><br>
+🔐 Learning <strong>AWS Services, Security Frameworks, and Network Solutions</strong><br>
+🌐 Developing skills in <strong>Cisco Networking & Network Security</strong><br>
+🚀 Passionate about <strong>Technology, Problem-Solving, and Continuous Learning</strong>
 </p>
 
 <div align="center">
@@ -41,8 +61,7 @@
   <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&shadow=0px+4px+8px+rgba(0,137,214,0.3)" />
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&shadow=0px+4px+8px+rgba(66,133,244,0.3)" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&shadow=0px+4px+8px+rgba(36,150,237,0.3)" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&shadow=0px+4px+8px+rgba(50,108,229,0.3)" />
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white&shadow=0px+4px+8px+rgba(98,60,228,0.3)" />
+
 </p>
 
 ### **🔧 System Administration & DevOps**
@@ -80,14 +99,14 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&shadow=0px+4px+8px+rgba(51,103,145,0.3)" />
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&shadow=0px+4px+8px+rgba(204,41,39,0.3)" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&shadow=0px+4px+8px+rgba(71,162,72,0.3)" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&shadow=0px+4px+8px+rgba(220,56,45,0.3)" />
 </p>
 
 ### **💻 Programming & Automation**
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&shadow=0px+4px+8px+rgba(55,118,171,0.3)" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&shadow=0px+4px+8px+rgba(247,223,30,0.3)" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&shadow=0px+4px+8px+rgba(0,173,216,0.3)" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&shadow=0px+4px+8px+rgba(97,218,251,0.3)" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&shadow=0px+4px+8px+rgba(35,145,32,0.3)" />
   <img src="https://img.shields.io/badge/-YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white&shadow=0px+4px+8px+rgba(203,23,30,0.3)" />
   <img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white&shadow=0px+4px+8px+rgba(0,0,0,0.3)" />
 </p>
@@ -109,16 +128,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiiiia&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahiiiia&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0D1117&cache_seconds=1800&langs_count=4&hide=html,css&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahiiiia&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahiiiia&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7" alt="GitHub Activity Graph" />
-</div>
 
 ---
 
@@ -150,19 +161,9 @@
   <a href="mailto:yahia@abderrafia.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&shadow=0px+4px+8px+rgba(209,72,54,0.3)" />
   </a>
-  <a href="https://discord.com/users/yahiiiia" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&shadow=0px+4px+8px+rgba(88,101,242,0.3)" />
-  </a>
-  <a href="https://twitter.com/yahiiiia_tech" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&shadow=0px+4px+8px+rgba(29,161,242,0.3)" />
-  </a>
 </p>
 
----
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Innovation+through+Technology+%F0%9F%9A%80;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%92%BB;Let's+Create+Something+Amazing+Together!+%E2%9C%A8" alt="Footer Typing" />
@@ -171,8 +172,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yahiiiia&style=for-the-badge&color=A855F7&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yahiiiia?style=for-the-badge&color=A855F7&labelColor=0D1117" alt="Followers" />
-</p>
